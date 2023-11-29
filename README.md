@@ -1,7 +1,7 @@
 # cs162_assignment1
 Oregon State University CS162 Fall 2023 Assignment 1
 
-rubric did not work :(, will fix (eventually)
+/* PLEASE VIEW IN CODE MODE */
 
 +----------------+
 | Score: 113/100 |
